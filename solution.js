@@ -27,5 +27,5 @@ console.log("Q4: Is Mark's BMI higher than John's? Why yes, it's",markMoreBeefCa
 
 
 if ((markBMI < johnBMI))
-    {console.log()}
-else{console.log(false)}
+    {console.log("Q5: Marks BMI is higher, it is ",markBMI.toFixed(2))}
+else{console.log("Q5: Johns BMI is higher, it is ",johnBMI.toFixed(2))}
